@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/1500sheep/room-reservation-v2.git
+	fetch = +refs/*:refs/*
+	mirror = true
